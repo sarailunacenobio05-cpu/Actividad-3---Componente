@@ -37,7 +37,7 @@ Actividad 3-Componente/
 Para integrar este componente en cualquier página web HTML, solo debes seguir estos pasos:
 
 ### CSS
-Agrega la siguiente etiqueta <link> dentro del <head> de tu archivo HTML para aplicar los diseños del carrusel y la barra de progreso:
+Agrega la siguiente etiqueta <link> dentro del head de tu archivo HTML para aplicar los diseños del carrusel y la barra de progreso:
 ```html
 <link rel="stylesheet" href="css/componente.css"> 
 
@@ -88,5 +88,5 @@ Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la 
 
 
 
-##Video 
-[Video]([https://youtu.be/XE3lFLCWg-Y](https://youtu.be/UbtQpcyVfsI))
+## Video 
+[Video](https://youtu.be/XE3lFLCWg-Y](https://youtu.be/UbtQpcyVfsI)
