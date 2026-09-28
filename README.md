@@ -14,7 +14,7 @@ Este componente es muy útil si quieres mostrar imágenes en tu página web de u
 El proyecto está organizado de la siguiente manera:
 
 ```text
-tu-repositorio/
+Actividad 3-Componente/
 │
 ├── css/
 │   └── componente.css
@@ -43,7 +43,7 @@ Agrega la siguiente etiqueta <link> dentro del <head> de tu archivo HTML para ap
 
 ```
 ### HTML
-Pega la estructura del carrusel y el contenedor de la barra de progreso en el cuerpo (<body>) de tu página:
+Pega la estructura del carrusel y el contenedor de la barra de progreso en el cuerpo <body> de tu página:
 
 ```html
 
@@ -76,7 +76,7 @@ Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la 
 
 ```
 
-##Capturas de pantalla
+## Capturas de pantalla
 
 **Funcionamiento del carrusel**
 ![Funcionamiento del carrusel](img/carrusel.png)
@@ -89,4 +89,4 @@ Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la 
 
 
 ##Video 
-[Ver Video](https://youtu.be/XE3lFLCWg-Y)
+[Video]([https://youtu.be/XE3lFLCWg-Y](https://youtu.be/UbtQpcyVfsI))
