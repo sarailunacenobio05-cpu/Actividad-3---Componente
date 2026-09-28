@@ -69,7 +69,7 @@ Pega la estructura del carrusel y el contenedor de la barra de progreso en el cu
 
 ```
 ### JS
-Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la etiqueta <body> 
+Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la etiqueta body
 
 ```html
 <script src="js/componente.js"></script>
@@ -89,4 +89,4 @@ Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la 
 
 
 ## Video 
-[Video](https://youtu.be/XE3lFLCWg-Y](https://youtu.be/UbtQpcyVfsI)
+[Ver Video](https://youtu.be/UbtQpcyVfsI)
