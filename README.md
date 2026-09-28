@@ -84,7 +84,7 @@ Agrega la etiqueta <script> al final del archivo HTML, justo antes de cerrar la 
 **Funcionamiento de la barra de progreso**
 ![Funcionamiento de la barra de progreso](img/barra.png)
 
-(img/extra.png)
+![imgextra](img/extra.png)
 
 
 
